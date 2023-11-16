@@ -1,7 +1,7 @@
 # manajemen-resto
 Tugas Praktik Pemrograman Berbasis Objek - Studi Kasus: Manajemen Restoran
-Sekarang, anda diminta untuk membuat program Java yang akan digunakan untuk manajemen restoran. Program ini akan mencakup berbagai konsep pemrograman berbasis objek yang telah dipelajari.
-<b>Petunjuk Pengerjaan Tugas dan Poin untuk Penjelasan di Rekaman Video:</b> <br>
+Sekarang, anda diminta untuk membuat program Java yang akan digunakan untuk manajemen restoran. Program ini akan mencakup berbagai konsep pemrograman berbasis objek yang telah dipelajari. <br>
+<b>Petunjuk Pengerjaan Tugas dan Poin untuk Penjelasan di Rekaman Video:</b>
 <ol>
    <li>Buatlah sebuah kelas abstrak MenuItem yang akan menjadi kelas dasar untuk semua menu item dalam restoran. Kelas ini harus memiliki atribut nama (String), harga (double), dan kategori (String). Definisikan metode abstrak tampilMenu() yang akan digunakan untuk menampilkan informasi tentang item menu</li>
    <li>
@@ -32,7 +32,7 @@ Sekarang, anda diminta untuk membuat program Java yang akan digunakan untuk mana
    <li>Durasi video penjelasan maksimal 15 menit</li>
 </ol>
 <p>
-   <b>Petunjuk Tambahan:</b> <br>
+   <b>Petunjuk Tambahan:</b>
       <ol>
          <li>Anda dapat menggunakan antarmuka atau abstract class jika diperlukan untuk mengimplementasikan abstraksi, seperti antarmuka untuk makanan, minuman, dan diskon.</li>
          <li>Gunakan polymorphism untuk mengimplementasikan metode tampilMenu() pada masing-masing kelas turunan.</li>
