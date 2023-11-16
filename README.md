@@ -22,7 +22,7 @@ Sekarang, anda diminta untuk membuat program Java yang akan digunakan untuk mana
 10. Gunakan struktur keputusan dan pengulangan sesuai dengan kebutuhan, seperti saat menampilkan menu dan memproses pesanan.
 11.	Durasi video penjelasan maksimal 15 menit
 <p>
-<b>Petunjuk Tambahan:>/b>
+<b>Petunjuk Tambahan:</b>
 - Anda dapat menggunakan antarmuka atau abstract class jika diperlukan untuk mengimplementasikan abstraksi, seperti antarmuka untuk makanan, minuman, dan diskon.
 - Gunakan polymorphism untuk mengimplementasikan metode tampilMenu() pada masing-masing kelas turunan.
 - Pastikan untuk menjaga struktur yang rapi dan dokumentasi yang baik dalam kode Anda.
