@@ -23,8 +23,10 @@ Sekarang, anda diminta untuk membuat program Java yang akan digunakan untuk mana
 11.	Durasi video penjelasan maksimal 15 menit
 <p>
 <b>Petunjuk Tambahan:</b>
-   1. Anda dapat menggunakan antarmuka atau abstract class jika diperlukan untuk mengimplementasikan abstraksi, seperti antarmuka untuk makanan, minuman, dan diskon.
-   2. Gunakan polymorphism untuk mengimplementasikan metode tampilMenu() pada masing-masing kelas turunan.
-   3. Pastikan untuk menjaga struktur yang rapi dan dokumentasi yang baik dalam kode Anda.
+   <ol>
+      <li>Anda dapat menggunakan antarmuka atau abstract class jika diperlukan untuk mengimplementasikan abstraksi, seperti antarmuka untuk makanan, minuman, dan diskon.</li>
+      <li>Gunakan polymorphism untuk mengimplementasikan metode tampilMenu() pada masing-masing kelas turunan.</li>
+      <li>Pastikan untuk menjaga struktur yang rapi dan dokumentasi yang baik dalam kode Anda.</li>
+   </ol>
 Dengan tugas praktik 3 ini, diharapkan rekan-rekana mahasiswa dapat mempraktikkan berbagai konsep pemrograman berbasis objek, penggunaan I/O dan exception handling, serta operasi File dalam sebuah aplikasi manajemen restoran yang lebih kompleks.
 </p>
